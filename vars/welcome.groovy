@@ -1,3 +1,3 @@
-def call(varun){
+def call(name){
   echo "Hi ${name}, Welcome to india"
 }
